@@ -1,5 +1,11 @@
-{
+{    
     "type": "Floor",
     "name": "Floorm",
-    "alwaysUnlocked": true,
+    "health": 600,
+    "size": 1,
+    "requirements": [
+     ],
+    "research": {
+    
+    }
 }
