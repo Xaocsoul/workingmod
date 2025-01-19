@@ -3,7 +3,7 @@
     "name": "Floorm",
     "health": 600,
     "size": 1,
-    "varients": 1,
+    "variants": 1,
     "requirements": [
      ],
     "research": {
